@@ -1,0 +1,11 @@
+{
+  "name": "Blog Talk Radio latest episode",
+  "description": "Share a single URL that automatically redirects to the latest episode of a Blog Talk Radio show",
+  "keywords": [
+    "blogtalkradio",
+    "podcast",
+    "podcasting"
+  ],
+  "website": "https://github.com/conarro/blogtalkradio_latest_episode",
+  "repository": "https://github.com/conarro/blogtalkradio_latest_episode"
+}
